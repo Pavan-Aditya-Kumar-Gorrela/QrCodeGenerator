@@ -27,6 +27,8 @@ npx create-react-app qrcode-gen
 
 Step 2: Now, go to the project folder i.e qrcode.gen by running the following command.
 
+cd qrcode-gen
+
 Step to Run Application: Run the application using the following command from the root directory of the project:
 
 npm start
