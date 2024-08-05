@@ -2,7 +2,7 @@
 
 ## Overview
 
-The QR Code Generator is a Python-based tool that allows you to generate QR codes from various types of data. This project utilizes the `qrcode` library to create and save QR codes as image files. The tool is designed to be simple and easy to use for generating QR codes for URLs, text, and other data types.
+The QR Code Generator is a ReactJS-based tool that allows you to generate QR codes from various types of data. This project utilizes the `qrcode` library to create and save QR codes as image files. The tool is designed to be simple and easy to use for generating QR codes for URLs, text, and other data types.
 
 ## Features
 
