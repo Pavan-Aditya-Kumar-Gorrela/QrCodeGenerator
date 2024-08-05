@@ -12,8 +12,11 @@ The QR Code Generator is a ReactJS-based tool that allows you to generate QR cod
 
 ## Prerequisites:
 React
+
 Functional Components
+
 React Hooks
+
 Javascript ES6
 
 ## Approach:
