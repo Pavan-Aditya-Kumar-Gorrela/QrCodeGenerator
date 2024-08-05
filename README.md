@@ -22,9 +22,13 @@ Our app consists of two sections. In the first section, we will collect user inp
 ### Creating a React application:
 
 Step 1: Create a react application by typing the following command in the terminal.
+
 npx create-react-app qrcode-gen
+
 Step 2: Now, go to the project folder i.e qrcode.gen by running the following command.
+
 Step to Run Application: Run the application using the following command from the root directory of the project:
+
 npm start
 
 
